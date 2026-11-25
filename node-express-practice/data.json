@@ -4,22 +4,29 @@
       "id": 1,
       "company": "Google",
       "role": "SWE",
-      "status": "Applied",
+      "status": "applied",
       "appliedDate": "2026-06-01"
     },
     {
       "id": 2,
       "company": "Microsoft",
       "role": "AI-ML",
-      "status": "Applied",
+      "status": "pending",
       "appliedDate": "2026-07-07"
     },
     {
-      "id": 1,
-      "company": "Moon",
-      "role": "SWD",
-      "status": "Applied",
-      "appliedDate": "2025-06-09"
+      "id": 4,
+      "company": "Stackrais",
+      "role": "Senior Software Engineer",
+      "status": "applied",
+      "appliedDate": "2026-11-25"
+    },
+    {
+      "id": 5,
+      "company": "Launchgrid",
+      "role": "SWE",
+      "status": "interview",
+      "appliedDate": "2026-11-25"
     }
   ]
 }

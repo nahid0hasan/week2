@@ -1,0 +1,25 @@
+{
+  "applications": [
+    {
+      "id": 1,
+      "company": "Google",
+      "role": "SWE",
+      "status": "Applied",
+      "appliedDate": "2026-06-01"
+    },
+    {
+      "id": 2,
+      "company": "Microsoft",
+      "role": "AI-ML",
+      "status": "Applied",
+      "appliedDate": "2026-07-07"
+    },
+    {
+      "id": 1,
+      "company": "Moon",
+      "role": "SWD",
+      "status": "Applied",
+      "appliedDate": "2025-06-09"
+    }
+  ]
+}
